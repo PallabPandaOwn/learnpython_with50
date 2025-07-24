@@ -98,5 +98,3 @@ DATABASE_URL = "localhost:5432"
 - **flake8**: Another linting tool for style checking
 
 ---
-
-*Note: This file was created on 2025-07-24 for Python programming course preparation*
